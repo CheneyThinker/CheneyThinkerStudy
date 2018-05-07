@@ -1,0 +1,5 @@
+﻿netstat -ano
+tasklist
+taskkill /im *.exe /f
+#taskkill /im imagename -f
+taskkill /pid processid /f
